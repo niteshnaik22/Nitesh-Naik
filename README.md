@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently working on Data analyst projects to find insights from the data
+i am currently working on Data analyst projects to find insights from the data. 7 years of experience in pharmaceutical industry analysing equipment and facility data for preventive maintenance analysis and cost optimisation for better functioning of operations department.
 
 
 ## 🌐 Socials:
