@@ -1,6 +1,6 @@
 # 💫 About Me:
-i am currently working on Data analyst projects to find insights from the data. 7 years of experience in pharmaceutical industry analysing equipment and facility data for preventive maintenance analysis and cost optimisation for better functioning of operations department.
-
+7+ years of Professional Experience in Pharmaceutical Industry analysing Equipment and Operational data for preventive maintenance and cost optimisation for better Functioning of Operations department.
+Worked for Apotex Pharamchem India Pvt. Ltd and also at Client location of Biocon and VIATRIS.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nitesh-naik-22262b283/) 
