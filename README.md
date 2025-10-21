@@ -1,6 +1,5 @@
 # 💫 About Me:
-7+ years of Professional Experience in Pharmaceutical Industry analysing Equipment and Operational data for preventive maintenance and cost optimisation for better Functioning of Operations department.
-Worked for Apotex Pharamchem India Pvt. Ltd and also at Client location of Biocon and VIATRIS.
+7+ years of industrial engineering experience and 5+ years of experience in data analytics, Power BI dashboard development and business intelligence in delivering actionable insights for operational excellence like Maintenance cost analysis, Predictive maintenance scheduling, Stock analysis, Failure data analysis, and cost optimization for a Pharmaceutical Industry.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nitesh-naik-22262b283/) 
